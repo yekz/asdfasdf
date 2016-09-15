@@ -1,0 +1,160 @@
+{
+    "always_prompt_for_file_reload": false,
+    "always_show_minimap_viewport": true,
+    "auto_complete": true,
+    "auto_complete_cycle": true,
+    "auto_complete_delay": 10,
+    "auto_complete_triggers":
+    [
+        {
+            "characters": "<",
+            "selector": "text.html"
+        },
+        {
+            "characters": ">",
+            "selector": "text"
+        },
+        {
+            "characters": "::",
+            "selector": "text"
+        },
+        {
+            "characters": "qazwsxedcrfvtgbyhnujmikolpQAZWSXEDCRFVTGBYHNUJMIKOLP",
+            "selector": "text, source, meta, string, punctuation, constant"
+        }
+    ],
+    "auto_find_in_selection": true,
+    "binary_file_patterns":
+    [
+        "*.dds",
+        "*.eot",
+        "*.gif",
+        "*.ico",
+        "*.jar",
+        "*.jpeg",
+        "*.jpg",
+        "*.pdf",
+        "*.png",
+        "*.swf",
+        "*.tga",
+        "*.ttf",
+        "*.zip",
+        "bower_components/**",
+        "node_modules/**",
+        "public/**",
+        "storage/**"
+    ],
+    "bold_folder_labels": true,
+    "color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+    "completion_active_list":
+    {
+        "css-properties": true,
+        "gruntjs-plugins": false,
+        "html": true,
+        "javascript": true,
+        "jquery": true,
+        "jquery-sq": false,
+        "lodash": true,
+        "my-angularjs": false,
+        "my-glossary": false,
+        "my-html": false,
+        "my-javascript": false,
+        "php": true,
+        "phpci": false,
+        "react": false,
+        "sql": true,
+        "twitter-bootstrap": false,
+        "twitter-bootstrap-less-variables": false,
+        "twitter-bootstrap3": false,
+        "twitter-bootstrap3-sass-variables": false,
+        "underscorejs": false
+    },
+    "draw_minimap_border": false,
+    "ensure_newline_at_eof_on_save": true,
+    "extra_file_exclude_patterns":
+    [
+        "*.pyc",
+        "*.pyo",
+        "*.exe",
+        "*.dll",
+        "*.obj",
+        "*.o",
+        "*.a",
+        "*.lib",
+        "*.so",
+        "*.dylib",
+        "*.ncb",
+        "*.sdf",
+        "*.suo",
+        "*.pdb",
+        "*.idb",
+        ".DS_Store",
+        "*.class",
+        "*.psd",
+        "*.db",
+        "*.sublime-workspace"
+    ],
+    "extra_folder_exclude_patterns":
+    [
+        ".svn",
+        ".git",
+        ".hg",
+        "CVS",
+        "public/build"
+    ],
+    "fade_fold_buttons": false,
+    "file_exclude_patterns":
+    [
+        "*.pyc",
+        "*.pyo",
+        "*.exe",
+        "*.dll",
+        "*.obj",
+        "*.o",
+        "*.a",
+        "*.lib",
+        "*.so",
+        "*.dylib",
+        "*.ncb",
+        "*.sdf",
+        "*.suo",
+        "*.pdb",
+        "*.idb",
+        ".DS_Store",
+        "*.class",
+        "*.psd",
+        "*.db",
+        "*.sublime-workspace"
+    ],
+    "folder_exclude_patterns":
+    [
+        ".svn",
+        ".git",
+        ".hg",
+        "CVS"
+    ],
+    "font_face": "Source Code Pro",
+    "font_size": 15,
+    "highlight_line": true,
+    "highlight_modified_tabs": true,
+    "ignore_vcs_packages": true,
+    "ignored_packages":
+    [
+    ],
+    "indent_guide_options":
+    [
+        "draw_normal",
+        "draw_active"
+    ],
+    "line_padding_bottom": 3,
+    "line_padding_top": 3,
+    "overlay_scroll_bars": "enabled",
+    "show_encoding": true,
+    "spell_check": false,
+    "tab_completion": true,
+    "theme": "Boxy Yesterday.sublime-theme",
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?",
+    "word_wrap": true
+}
